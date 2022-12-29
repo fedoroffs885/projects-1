@@ -1,22 +1,22 @@
 ## Данные
 Описание данных:
 **Технологический процесс**
-1.Rougher feed — исходное сырье
-2.Rougher additions (или reagent additions) — флотационные реагенты: Xanthate, Sulphate, Depressant
+1. Rougher feed — исходное сырье
+2. Rougher additions (или reagent additions) — флотационные реагенты: Xanthate, Sulphate, Depressant
   1. Xanthate — ксантогенат (промотер, или активатор флотации);
   2. Sulphate — сульфат (на данном производстве сульфид натрия);
-  3.Depressant — депрессант (силикат натрия).
-3.Rougher process (англ. «грубый процесс») — флотация
-4.Rougher tails — отвальные хвосты
-5.Float banks — флотационная установка
-6.Cleaner process — очистка
-7.Rougher Au — черновой концентрат золота
-8.Final Au — финальный концентрат золота
+  3. Depressant — депрессант (силикат натрия).
+3. Rougher process (англ. «грубый процесс») — флотация
+4. Rougher tails — отвальные хвосты
+5. Float banks — флотационная установка
+6. Cleaner process — очистка
+7. Rougher Au — черновой концентрат золота
+8. Final Au — финальный концентрат золота
 **Параметры этапов**
-1.air amount — объём воздуха
-2.fluid levels — уровень жидкости
-3.feed size — размер гранул сырья
-4.feed rate — скорость подачи
+1. air amount — объём воздуха
+2. fluid levels — уровень жидкости
+3. feed size — размер гранул сырья
+4. feed rate — скорость подачи
 **Наименование признаков**
 Наименование признаков должно быть такое:
 *[этап].[тип_параметра].[название_параметра]*
