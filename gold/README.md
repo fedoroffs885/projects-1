@@ -1,5 +1,5 @@
 ## Данные
-Описание данных:
+Описание данных:  
 **Технологический процесс**
 1. Rougher feed — исходное сырье
 2. Rougher additions (или reagent additions) — флотационные реагенты: Xanthate, Sulphate, Depressant
