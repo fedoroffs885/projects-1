@@ -8,3 +8,4 @@
 | [Исследование объявлений о продаже квартир](https://github.com/fedoroffs885/projects-1/tree/main/sale%20of%20real%20estate) | Изучение данных для нахождения интересных особенностей и зависимостей, которые существуют на рынке недвижимости. | Pandas, matplotlib, seaborn |
 | [Определение стоимости автомобилей](https://github.com/fedoroffs885/projects-1/tree/main/car%20cost) | Построение модели для определения рыночной стоимости автомобиля. | Pandas, numpy, math, lightgbm, sklearn |
 | [Прогнозирование заказов такси](https://github.com/fedoroffs885/projects-1/tree/main/taxi%20order%20forecasting) | Прогнозирование количества заказов такси на следующий час.| Pandas, numpy, math, matplolib, sklearn, catboost, lightgbm, sklearn |
+| [NLP](https://github.com/fedoroffs885/projects-1/tree/main/NLP) | Поиск токсичных комментариев и отправка их на модерацию.| Pandas, numpy, re, sklearn, nltk, spacy, warnings, pymystem3 |
