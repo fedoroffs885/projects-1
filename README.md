@@ -7,3 +7,4 @@
 | [Защита персональных данных клиентов](https://github.com/fedoroffs885/projects-1/tree/main/personal%20data%20protection) | Защитить данные с помощью преобразований. | Pandas, numpy, sklearn |
 | [Исследование объявлений о продаже квартир](https://github.com/fedoroffs885/projects-1/tree/main/sale%20of%20real%20estate) | Изучение данных для нахождения интересных особенностей и зависимостей, которые существуют на рынке недвижимости. | Pandas, matplotlib, seaborn |
 | [Определение стоимости автомобилей](https://github.com/fedoroffs885/projects-1/tree/main/car%20cost) | Построение модели для определения рыночной стоимости автомобиля. | Pandas, numpy, math, lightgbm, sklearn |
+| [Прогнозирование заказов такси](https://github.com/fedoroffs885/projects-1/tree/main/taxi%20order%20forecasting) | Спрогнозировать количество заказов такси на следующий час.| Pandas, numpy, math, matplolib, sklearn, catboost, lightgbm, sklearn |
